@@ -7,7 +7,7 @@ Timeless Cuisine addresses critical operational bottlenecks common in traditiona
 ## Problem Analysis 
 A **Fishbone Diagram** was formulated across people, process, system, environment, and information dimensions to isolate the key drivers of operational inefficiencies and poor dining experiences.
 
-![Fishbone Diagram](Fishbone Diagram.png)
+![Fishbone Diagram](Fishbone_Diagram.png)
 
 ---
 
