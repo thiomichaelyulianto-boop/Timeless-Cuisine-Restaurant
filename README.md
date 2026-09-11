@@ -35,7 +35,7 @@ Designed comprehensive static UI mockups across multiple platform touchpoints:
 
 ![Management Dashboard](Dashboard.png)
 
-**Figma File:** [Figma Link](https://www.figma.com/design/OVmg8w3DNOblIra6sFzr7n/Timeless-Cuisine?node-id=0-1&t=EXtPSCYlkh6blmN9-1)  
+**Figma:** [Figma Link](https://www.figma.com/design/OVmg8w3DNOblIra6sFzr7n/Timeless-Cuisine?node-id=0-1&t=EXtPSCYlkh6blmN9-1)  
 **Diagram Source:** [Draw.io Diagram File](https://drive.google.com/file/d/1rEfsbh4vSqPTZ3axkXrTFf2bClq8r-Z6/view?usp=sharing)
 
 ## System Architecture Specification
