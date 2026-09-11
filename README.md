@@ -26,7 +26,7 @@ Detailed behavioral and structural diagrams modeled in UML:
 
 ![Class Diagram](Class_Diagram.png)
 
-## UI/UX Prototyping
+## UI/UX
 Designed high-fidelity user interfaces across touchpoints:
 * **Customer Table Kiosk:** Menu exploration, dynamic item customization, cart validation, and automated table order submission.
 * **Cashier POS Interface:** Order queue management, bill splitting, cash/card/QRIS validation, and receipt generation.
