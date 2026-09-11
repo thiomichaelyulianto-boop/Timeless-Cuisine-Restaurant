@@ -26,16 +26,16 @@ Detailed behavioral and structural diagrams modeled in UML:
 
 ![Class Diagram](Class_Diagram.png)
 
-## UI/UX
-Designed high-fidelity user interfaces across touchpoints:
-* **Customer Table Kiosk:** Menu exploration, dynamic item customization, cart validation, and automated table order submission.
-* **Cashier POS Interface:** Order queue management, bill splitting, cash/card/QRIS validation, and receipt generation.
-* **Warehouse & Purchasing Portal:** Daily stock consumption logging, low-stock alerts, purchase request generation, and vendor PO tracking.
-* **Executive Management Dashboard:** Real-time visibility into daily revenue, order volume, ingredient consumption, and net profit metrics.
+## UI/UX Design & High-Fidelity Mockups
+Designed comprehensive static UI mockups across multiple platform touchpoints:
+* **Customer Table Kiosk:** Menu exploration, item customization modal, cart confirmation, and order submission interface.
+* **Cashier POS Interface:** Order queue list, payment method selection (Cash/Card/QRIS), and receipt generation views.
+* **Warehouse & Purchasing Portal:** Daily stock consumption forms, low-stock indicators, purchase request creation, and PO logs.
+* **Executive Management Dashboard:** Visual analytics for daily sales, volume distribution, inventory status, and P&L statements.
 
 ![Management Dashboard](Dashboard.png)
 
-**Figma:** [Figma Link](https://www.figma.com/design/OVmg8w3DNOblIra6sFzr7n/Timeless-Cuisine?node-id=0-1&t=EXtPSCYlkh6blmN9-1)  
+**Figma File:** [Figma Link](https://www.figma.com/design/OVmg8w3DNOblIra6sFzr7n/Timeless-Cuisine?node-id=0-1&t=EXtPSCYlkh6blmN9-1)  
 **Diagram Source:** [Draw.io Diagram File](https://drive.google.com/file/d/1rEfsbh4vSqPTZ3axkXrTFf2bClq8r-Z6/view?usp=sharing)
 
 ## System Architecture Specification
