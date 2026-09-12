@@ -1,4 +1,4 @@
-# Timeless Cuisine – Restaurant Information System Analysis & Design (ISAD)
+# Timeless Cuisine Restaurant 
 An end-to-end Systems Analysis and Design (ISAD) case study for a modern restaurant management platform, covering root-cause problem identification, structured process modeling, object-oriented software design, interactive UI/UX prototyping, and 3-tier architecture specification.
 
 ## Project Overview
@@ -8,7 +8,6 @@ Timeless Cuisine addresses critical operational bottlenecks common in traditiona
 A **Fishbone Diagram** was formulated across people, process, system, environment, and information dimensions to isolate the key drivers of operational inefficiencies and poor dining experiences.
 
 ![Fishbone Diagram](Fishbone_Diagram.png)
-
 
 ## Process & Data Modeling
 The system workflows and information streams are modeled using structured analysis tools:
