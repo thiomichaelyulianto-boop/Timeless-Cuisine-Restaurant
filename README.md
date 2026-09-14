@@ -1,5 +1,5 @@
 # Timeless Cuisine Restaurant 
-An end-to-end Information Systems Analysis and Design (ISAD) case study for a modern restaurant management platform, covering root-cause problem identification, structured process modeling, object-oriented software design, UI/UX design, and 3-tier architecture specification.
+An end-to-end Information Systems Analysis and Design (ISAD) case study for a modern restaurant management platform, covering root-cause problem identification, structured process modeling, object-oriented software design, UI mockups, and 3-tier architecture specification.
 
 ## Project Overview
 Timeless Cuisine addresses critical operational bottlenecks common in traditional restaurant environments, including manual inventory tracking, delayed stock deduction, lack of automated P&L reporting, and ordering miscommunications. This project delivers a complete software specification to integrate customer self-ordering, cashier POS, kitchen/warehouse inventory synchronization, and central management oversight into a single unified system.
